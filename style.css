@@ -6,7 +6,18 @@
 
 
 /* Selector by id in element  */
-#intro{
+/* #intro{
     color: white;
+    background-color: gray;
+} */
+
+/* Class selector */
+/* .first{
+    font-size:200%;
+} */
+
+/* Descendant Selectors */
+#intro .first em{
+    color: pink;
     background-color: gray;
 }
