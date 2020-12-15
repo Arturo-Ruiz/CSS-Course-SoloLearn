@@ -1,4 +1,12 @@
-p{
+/* Selector by elements html */
+/* p{
+    color: white;
+    background-color: gray;
+} */
+
+
+/* Selector by id in element  */
+#intro{
     color: white;
     background-color: gray;
 }
